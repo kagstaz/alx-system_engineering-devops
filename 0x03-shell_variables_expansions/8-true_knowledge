@@ -1,2 +1,2 @@
 #!/bin/bas
-echo $((128 + $TRUEKNOWLEDGE))
+echo $(($TRUEKNOWLEDGE + 128))
